@@ -3,7 +3,6 @@ name: Publish
 
 # run on main branch
 on:
-  pull_request:
   push:
     branches:
       - 'main'
@@ -22,7 +21,7 @@ permissions:
 
 jobs:
 
-  build:
+  publish:
     runs-on: ubuntu-latest
 
     steps:
