@@ -6,8 +6,7 @@ Shared repository of D2R2'23 web page
 
 | Branch       | Deployment |
 | :---         | :--- |
-| `main`       | [https://2023.d2r2.aksw.org](https://2023.d2r2.aksw.org) (TODO) |
-| `develop`  | [https://develop.2023.d2r2.aksw.org](https://develop.2023.d2r2.aksw.org) (TODO) |
+| `main`       | [https://aksw.github.io/2023.d2r2.aksw.org/](https://aksw.github.io/2023.d2r2.aksw.org/) |
 
 ## License
 
