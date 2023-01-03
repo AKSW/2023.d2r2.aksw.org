@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "2023-d2r2-aksw-org"
+version = "0.0.0"
+description = "Webpage of the 2023 D2R2 Workshop"
+authors = ["Sebastian Tramp <sebastian.tramp@eccenca.com>"]
+homepage = "https://github.com/aksw/2023.d2r2.aksw.org"
+readme = "README.md"
+packages = [{include = "tools"}]
+
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Pillow = "^9.2.0"
+CairoSVG = "^2.5.2"
+mkdocs = "^1.4.2"
+mike = "^1.1.2"
+mkdocs-git-revision-date-localized-plugin = "^1.1.0"
+mkdocs-awesome-pages-plugin = "^2.8.0"
+mkdocs-glightbox = "^0.3.0"
+mkdocs-macros-plugin = "^0.7.0"
+mkdocs-autolinks-plugin = "^0.6.0"
+mkdocs-redirects = "^1.2.0"
+mkdocs-swagger-ui-tag = "^0.4.3"
+mkdocs-material = "8.5.8"
+
+[tool.poetry.group.dev.dependencies]
+linkcheckmd = "^1.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
