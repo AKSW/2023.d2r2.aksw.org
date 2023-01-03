@@ -159,10 +159,6 @@ markdown_extensions:
       permalink: '¤'
       baselevel: 1
       # toc_depth: 4
-  # automatically inlines bundled and custom icons and emojis
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 # }}}
 
 # {{{ Extensions to mkdocs - some of them are used by material theme
