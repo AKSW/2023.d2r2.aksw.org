@@ -30,10 +30,10 @@ We invite contributions of novel results and ongoing work as well as position pa
 The workshop is planned as a half day onsite event with a target of 8 paper presentations and one keynote.
 The Knowledge Graph release party will be organized after the workshop and will give enough room for discussion on the topic. 
 
-* Maximum 10 pages (full papers) or 5 pages (short papers, discussion papers)
-* PDF or HTML, papers must be formatted according to the [CEUR-ART format](https://ceur-ws.org/HOWTOSUBMIT.html)
+* Maximum 10 pages (full papers) or 5 pages (short papers, discussion papers).
+* PDF or HTML, papers must be formatted according to the [CEUR-ART format](https://ceur-ws.org/HOWTOSUBMIT.html) one one-column style.
 * Reviews will be carried out in a single-blind mode. Submission of supplementary source code and data is appreciated.
-* Accepted contributions will be published in the Open Access CEUR proceedings.
+* Accepted contributions are planned to be published in the Open Access CEUR proceedings.
 * At least one author of an accepted paper must register for the workshop to present their work.
 
 Submission via easychair.org
