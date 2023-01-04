@@ -1,10 +1,13 @@
+---
+title: "D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023"
+---
 # D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023
 
 ## Latest News
 
 !!! info "2023-01-03"
 
-    The Second International Workshop on Linked Data-driven Resilience Research 2023 (D2R2’23) will be a half-day Workshop on May 28th/29th, 2023 at Aldemar Knossos Royal & Royal Villa, co-located with ESWC2023.
+    The Second International Workshop on Linked Data-driven Resilience Research 2023 (D2R2’23) is accepted as a half-day Workshop on May 28th/29th, 2023 at Aldemar Knossos Royal & Royal Villa, co-located with ESWC2023.
 
     Please have a look at the [Call for Papers](call-for-papers.md) to get a overview on important dates.
 
