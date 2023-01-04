@@ -1,7 +1,3 @@
----
-title: "D2R2’23"
-subtitle: "Second International Workshop on Linked Data-driven Resilience Research 2023"
----
 # D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023
 
 ## Latest News
