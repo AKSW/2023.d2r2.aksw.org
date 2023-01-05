@@ -24,3 +24,9 @@ With a master's degree in communication and media science, Julia Holze manages t
 
 As Chief Technology Officer Sebastian is responsible for the technology and product development at eccenca. He holds a PhD in computer science from the Leipzig University and authored more than 60 peer-reviewed publications. Sebastian is a founding member of the renowned AKSW research group and was PC member, reviewer and organizer for more than 30 research and technology events as well as scientific journals including ESWC, Semantic Web Journal, and Journal of Web Semantics. He also has led a number of key Linked Data technology projects, including the development of the data wiki OntoWiki.
 
+## Natanael Arndt
+
+[Senior Linked Data Expert @ eccenca GmbH / Agile Knowledge Engineering and Semantic Web (AKSW)](https://aksw.org/NatanaelArndt)
+
+Natanael is for many years part of the Agile Knowledge Engineering and Semantic Web (AKSW) research group and the Semantic Web community. He holds a PhD in computer science from the Leipzig University. Natanael is working for the eccenca GmbH as Senior Linked Data Expert, consulting industry customers that are applying Semantic Web technology to build up corporate knowledge graphs and to understand their supply chains and value networks. In the current research project CoyPu: Cognitive Economy Intelligence Platform for the Resilience of Economic Ecosystems he is responsible for the platform, data pipeline and architecture. He has co-organized the last years D2R2’22 workshop as well as the hosting Data Week, he as well has organized several scientific and research-industry workshops and congresses, he is a member of many program committees of international journals, conferences and workshops.
+
