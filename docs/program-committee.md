@@ -14,3 +14,5 @@ Following is the list of confirmed program committee members in alphabetical ord
 - Nenad Krdavac
 - Sabine Gründer-Fahrer
 - Maria-Esther Vidal
+- Simon Bin
+- Eva Hoerster
