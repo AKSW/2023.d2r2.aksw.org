@@ -1,9 +1,13 @@
 ---
-title: "D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023"
+title: "D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023 (2023-05-28)"
 ---
-# D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023
+# D2R2’23: Second International Workshop on Linked Data-driven Resilience Research 2023 (2023-05-28)
 
 ## Latest News
+
+!!! info "2023-02-16"
+
+    The ESWC2023 organization team just finalized the workshop and tutorial schedule. The D2R2'23 workshop will take place on 2023-05-28 (Sunday) in the late morning session.
 
 !!! info "2023-01-03"
 
