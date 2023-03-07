@@ -5,15 +5,36 @@ title: "D2R2’23: Second International Workshop on Linked Data-driven Resilienc
 
 ## Latest News
 
-!!! info "2023-02-16"
+!!! info "2023-03-07 - Keynote confirmed"
+
+    We are happy to announce, that Simon Gottschalk confirmed to open our workshop with his keynote "Knowledge Graphs for Global Events and Trade".
+
+!!! info "2023-02-16 - Date fixed"
 
     The ESWC2023 organization team just finalized the workshop and tutorial schedule. The D2R2'23 workshop will take place on 2023-05-28 (Sunday) in the late morning session.
 
-!!! info "2023-01-03"
+!!! info "2023-01-03 - Workshop accepted"
 
     The Second International Workshop on Linked Data-driven Resilience Research 2023 (D2R2’23) is accepted as a half-day Workshop on May 28th/29th, 2023 at Aldemar Knossos Royal & Royal Villa, co-located with ESWC2023.
 
     Please have a look at the [Call for Papers](call-for-papers.md) to get a overview on important dates.
+
+## Keynote
+
+**Knowledge Graphs for Global Events and Trade**
+by [Dr. Simon Gottschalk](https://personal.l3s.uni-hannover.de/~gottschalk/)
+(Research group leader at the [L3S Research Center](https://www.l3s.de/), [Leibniz Universität Hannover](https://www.uni-hannover.de/))
+
+!!! info inline end ""
+
+    ![Image title](/assets/SimonGottschalk.png)
+
+Events, company and trade networks are essential in investigating global societal and economic interrelations.
+Knowledge graphs can model these facets.
+This talk will first give an overview of [EventKG](https://eventkg.l3s.uni-hannover.de/) – a multilingual knowledge graph of more than 1 million events in 15 languages.
+These events, attributes, and relations enable event analytics and reveal global dependencies.
+In addition, this talk introduces the project [ATTENTION!](https://attention-project.eu/) and how it aims at using knowledge graphs to help understand global trade and company networks.
+By detecting potential conspicuous patterns, the goal is to protect a company's supply chain and to ensure its brand protection.
 
 ## Abstract
 
