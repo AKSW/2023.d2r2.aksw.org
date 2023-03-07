@@ -5,8 +5,8 @@ We invite contributions of novel results and ongoing work as well as position pa
 ## Important Dates
 
 * Paper Submission Deadline: **March 23, 2023** (11:59 pm, Hawaii time) - **extended**
-* Notification of Acceptance: April 13, 2023 (11:59 pm, Hawaii time)
-* Camera-Ready Paper: April 20, 2023 (11:59 pm, Hawaii time)
+* Notification of Acceptance: April 20, 2023 (11:59 pm, Hawaii time)
+* Camera-Ready Paper: April 27, 2023 (11:59 pm, Hawaii time)
 * Workshop: May 28, 2023
 
 ## Topics of Interest (all in the context of Resilience Research)
