@@ -4,7 +4,7 @@ We invite contributions of novel results and ongoing work as well as position pa
 
 ## Important Dates
 
-* Paper Submission Deadline: March 9, 2023 (11:59 pm, Hawaii time)
+* Paper Submission Deadline: **March 23, 2023** (11:59 pm, Hawaii time) - **extended**
 * Notification of Acceptance: April 13, 2023 (11:59 pm, Hawaii time)
 * Camera-Ready Paper: April 20, 2023 (11:59 pm, Hawaii time)
 * Workshop: May 28, 2023
