@@ -5,6 +5,10 @@ title: "D2R2’23: Second International Workshop on Linked Data-driven Resilienc
 
 ## Latest News
 
+!!! info "2023-03-08 - Deadline extension"
+
+    We extended the deadline for workshop submissions to 2023-03-23.
+
 !!! info "2023-03-07 - Keynote confirmed"
 
     We are happy to announce, that Simon Gottschalk confirmed to open our workshop with his keynote "Knowledge Graphs for Global Events and Trade".
