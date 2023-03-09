@@ -7,7 +7,7 @@ title: "D2R2’23: Second International Workshop on Linked Data-driven Resilienc
 
 !!! info "2023-03-10 - Journal Special Issue"
 
-    We plan to invite a selection of the best contributions to the D2R2 workshop to submit an extended article to a special issue of the [*it - Information Technology*](https://www.degruyter.com/journal/key/itit/html) journal.
+    We plan to invite a selection of the best contributions to the D2R2 workshop to submit an extended article to a special issue of the [it - Information Technology](https://www.degruyter.com/journal/key/itit/html) journal.
 
 !!! info "2023-03-08 - Deadline extension"
 

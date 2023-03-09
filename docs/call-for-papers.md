@@ -42,4 +42,5 @@ https://easychair.org/conferences/?conf=d2r2-23)
 
 ## Journal Special Issue
 
-We plan to invite a selection of the best contributions to the D2R2 workshop to submit an extended article to a special issue of the [*it - Information Technology*](https://www.degruyter.com/journal/key/itit/html) journal.
+We plan to invite a selection of the best contributions to the D2R2 workshop to submit an extended article to a special issue of the [it - Information Technology](https://www.degruyter.com/journal/key/itit/html) journal.
+Further information will be provided when the time comes.
