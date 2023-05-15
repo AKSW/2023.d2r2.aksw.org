@@ -5,6 +5,10 @@ title: "D2R2’23: Second International Workshop on Linked Data-driven Resilienc
 
 ## Latest News
 
+!!! info "2023-05-15 - Program Online"
+
+    The [workshop program](./program.md) is now online.
+
 !!! info "2023-04-21 - Author Notification"
 
     After getting 29 reviews for the 10 submissions, we selected 7 submissions for publication and presentation on the workshop.

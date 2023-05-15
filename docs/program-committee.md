@@ -9,7 +9,6 @@ Following is the list of confirmed program committee members in alphabetical ord
 - Edgard Marx
 - Eva Hoerster
 - Felix Engel
-- Istvan J. Mocsy
 - Julia Gastinger
 - Junbo Huang
 - Lars-Peter Meyer

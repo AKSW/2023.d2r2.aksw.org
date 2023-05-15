@@ -4,6 +4,9 @@ site_name: "D2R2’23 - co-located with ESWC2023"
 site_url: https://2023.d2r2.aksw.org/
 repo_url: https://github.com/aksw/2023.d2r2.aksw.org
 edit_uri: ./edit/develop/docs
+# https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#custom-syntax-theme
+extra_css:
+  - assets/extra.css
 extra:
   # https://squidfunk.github.io/mkdocs-material/reference/?h=status#setting-the-page-status
   status:
@@ -159,6 +162,10 @@ markdown_extensions:
       permalink: '¤'
       baselevel: 1
       # toc_depth: 4
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 # }}}
 
 # {{{ Extensions to mkdocs - some of them are used by material theme
