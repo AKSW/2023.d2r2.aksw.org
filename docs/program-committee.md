@@ -5,6 +5,7 @@ Following is the list of confirmed program committee members in alphabetical ord
 - Allard Oelen
 - Angelie Kraft
 - Antonin Delpeuch
+- Cedric Möller
 - Edgard Marx
 - Eva Hoerster
 - Felix Engel
