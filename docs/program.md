@@ -22,7 +22,7 @@ Additionally, we are happy to have a keynote at the beginning of our half day wo
 
     - 09:30 - **Dynamic Representations of Global Crises: Creation and Analysis of a Temporal Knowledge Graph for Conflicts, Trade and Value Networks** by  Julia Gastinger, Nils Steinert, Sabine Gründer-Fahrer, Michael Martin ([:material-file-document-outline:Download](https://aksw.github.io/submission.d2r2.aksw.org/Vol-XXX/paper2.pdf))
     - 09:50 - **From Data to Insights: Constructing Spatiotemporal Knowledge Graphs for City Resilience Use Cases** by Amin Anjomshoaa, Hannah Schuster, Johannes Wachs, Axel Polleres ([:material-file-document-outline:Download](https://aksw.github.io/submission.d2r2.aksw.org/Vol-XXX/paper1.pdf))
-    - 10:10 - **Base Platform for Knowledge Graphs With Free Software** by Simon Bin, Claus Stadler, Norman Radtke, Kurt Junghanns, Sabine Gründer-Fahrer, Michael Martin ([:material-file-document-outline:Download](https://aksw.github.io/submission.d2r2.aksw.org/Vol-XXX/paper6.pdf))
+    - 10:10 - **Base Platform for Knowledge Graphs with Free Software** by Simon Bin, Claus Stadler, Norman Radtke, Kurt Junghanns, Sabine Gründer-Fahrer, Michael Martin ([:material-file-document-outline:Download](https://aksw.github.io/submission.d2r2.aksw.org/Vol-XXX/paper6.pdf))
 
 !!! coffee-break "10:30 - Coffee Break"
 
