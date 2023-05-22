@@ -5,6 +5,10 @@ title: "D2R2’23: Second International Workshop on Linked Data-driven Resilienc
 
 ## Latest News
 
+!!! info "2023-05-22 - Proceedings Online"
+
+    The “[Proceedings of the Second International Workshop on Linked Data-driven Resilience Research 2023](https://ceur-ws.org/Vol-3401/)” are published as volume 3401 of the CEUR Workshop Proceedings.
+
 !!! info "2023-05-15 - Program Online"
 
     The [workshop program](./program.md) is now online.
