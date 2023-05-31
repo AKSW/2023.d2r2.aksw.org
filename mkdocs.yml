@@ -38,7 +38,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
   language: en
   palette:
-    primary: blue
+    scheme: d2r2
 
   # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
   custom_dir: overrides
@@ -118,6 +118,9 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+
+extra_css:
+  - stylesheets/extra.css
 # }}}
 
 # {{{ Extensions to the markdown processor
@@ -196,4 +199,3 @@ plugins:
 watch:
   - overrides
 # }}}
-
