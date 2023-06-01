@@ -16,7 +16,7 @@ Additionally, we are happy to have a keynote at the beginning of our half day wo
 
 !!! tip "09:10 - Keynote"
 
-    **Knowledge Graphs for Global Events and Trade** by [Simon Gottschalk](https://personal.l3s.uni-hannover.de/~gottschalk/) (Research group leader at the [L3S Research Center](https://www.l3s.de/), [Leibniz Universität Hannover](https://www.uni-hannover.de/))
+    **Knowledge Graphs for Global Events and Trade** by [Simon Gottschalk](https://personal.l3s.uni-hannover.de/~gottschalk/) (Research group leader at the [L3S Research Center](https://www.l3s.de/), [Leibniz Universität Hannover](https://www.uni-hannover.de/); [:material-presentation: Slides](/assets/slides/2023-05-28-D2R2-Keynote-SimonGottschalk.pdf))
 
 !!! session "09:30 - Session 1 (Chair: Natanael Arndt)"
 
